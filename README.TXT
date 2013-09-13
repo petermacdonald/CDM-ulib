@@ -1,0 +1,1 @@
+Customized files used in Drupal 7 front end to CONTENTdm.
